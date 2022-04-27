@@ -1,0 +1,11 @@
+public void DoThings()
+{
+    var number = 3;
+    return number;
+}
+
+public string DoAnotherThings()
+{
+    var string = "Cool";
+    return string;
+}
