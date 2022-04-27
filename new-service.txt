@@ -1,1 +1,2 @@
-nova linha foi criada, mas precisamos melhor o texto
+nova linha foi criadas, mas precisamos melhor o texto
+e agora temos o final do texto
